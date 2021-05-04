@@ -244,7 +244,7 @@ window.addEventListener("DOMContentLoaded", function () {
     })
 
     $('.product-banner').click(function(){
-        alert('clicado');
+        //alert('clicado');
 
         /*const params = (new URL(document.location)).searchParams;
         const name = params.get('name');
